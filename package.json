@@ -1,13 +1,13 @@
 {
   "name": "japanesque-syntax",
   "theme": "syntax",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "A short description of your syntax theme",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/kyoh86/atom-japanesque-syntax",
+  "repository": "https://github.com/kyoh86/japanesque-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
